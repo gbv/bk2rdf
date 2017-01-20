@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">0</marc:subfield>
+         <marc:subfield code="j">Allgemeine Werke und Philosophie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">01</marc:subfield>
+         <marc:subfield code="e">0</marc:subfield>
+         <marc:subfield code="j">Allgemeines</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">02</marc:subfield>
+         <marc:subfield code="e">0</marc:subfield>
+         <marc:subfield code="j">Wissenschaft und Kultur allgemein</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">05</marc:subfield>
+         <marc:subfield code="e">0</marc:subfield>
+         <marc:subfield code="j">Kommunikationswissenschaft</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">06</marc:subfield>
+         <marc:subfield code="e">0</marc:subfield>
+         <marc:subfield code="j">Information und Dokumentation</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">08</marc:subfield>
+         <marc:subfield code="e">0</marc:subfield>
+         <marc:subfield code="j">Philosophie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">1-2</marc:subfield>
+         <marc:subfield code="j">Geisteswissenschaften</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">10</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Geisteswissenschaften allgemein</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">11</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Theologie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">15</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Geschichte</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">17</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Sprach- und Literaturwissenschaft</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">18</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Einzelne Sprachen und Literaturen</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">20</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Kunstwissenschaften</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">21</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Einzelne Kunstformen</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">24</marc:subfield>
+         <marc:subfield code="e">1-2</marc:subfield>
+         <marc:subfield code="j">Theater</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">3-4</marc:subfield>
+         <marc:subfield code="j">Naturwissenschaften</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">30</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Naturwissenschaften allgemein</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">31</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Mathematik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">33</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Physik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">35</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Chemie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">38</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Geowissenschaften</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">39</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Astronomie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">42</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Biologie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">43</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Umweltforschung</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">44</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Medizin</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">46</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Tiermedizin</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">48</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Land- und Forstwirtschaft</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">49</marc:subfield>
+         <marc:subfield code="e">3-4</marc:subfield>
+         <marc:subfield code="j">Hauswirtschaft</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">5</marc:subfield>
+         <marc:subfield code="j">Ingenieurwissenschaften</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">50</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Technik allgemein</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">51</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Werkstoffkunde</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">52</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Maschinenbau</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">53</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Elektrotechnik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">54</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Informatik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">55</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Verkehrswesen</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">56</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Bauwesen</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">57</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Bergbau</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">58</marc:subfield>
+         <marc:subfield code="e">5</marc:subfield>
+         <marc:subfield code="j">Chemische Technik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">7-8</marc:subfield>
+         <marc:subfield code="j">Sozialwissenschaften</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">70</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Sozialwissenschaften allgemein</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">71</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Soziologie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">73</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Ethnologie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">74</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Geographie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">76</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Sport</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">77</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Psychologie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">79</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Sozialpädagogik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">80</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Pädagogik</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">81</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Bildungswesen</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">83</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Volkswirtschaft</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">85</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Betriebswirtschaft</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">86</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Recht</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">88</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Verwaltungslehre</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>*****nw</marc:leader>
+      <marc:controlfield tag="008">******ananaana</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">DE-601</marc:subfield>
+         <marc:subfield code="b">ger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="084" ind1="0" ind2=" ">
+         <marc:subfield code="a">bkl</marc:subfield>
+         <marc:subfield code="e">ger</marc:subfield>
+         <marc:subfield code="q">DE-601</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="153" ind1=" " ind2=" ">
+         <marc:subfield code="a">89</marc:subfield>
+         <marc:subfield code="e">7-8</marc:subfield>
+         <marc:subfield code="j">Politologie</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>
