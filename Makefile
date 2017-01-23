@@ -9,14 +9,16 @@ unterklassen.xml:
 bk.xml: hauptklassen.xml unterklassen.xml
 	perl merge.pl $? > $@
 
+MC2SKOS_OPTIONS=--indexterms --notes
+
 bk.ttl: bk.xml
-	mc2skos -o turtle $< $@
+	mc2skos -o turtle $(MC2SKOS_OPTIONS) $< $@
 
 bk.json: bk.xml
-	mc2skos -o jskos $< $@
+	mc2skos -o jskos $(MC2SKOS_OPTIONS) $< $@
 
 bk.ndjson: bk.xml
-	mc2skos -o ndjson $< $@
+	mc2skos -o ndjson $(MC2SKOS_OPTIONS) $< $@
 
 install:
 	cpanm --installdeps .
