@@ -22,3 +22,4 @@ bk.ndjson: bk.xml
 
 install:
 	cpanm --installdeps .
+	pip install 'mc2skos>=0.5.1'
