@@ -7,7 +7,7 @@ unterklassen.xml:
 	perl unterklassen.pl > $@
 
 bk.xml: hauptklassen.xml unterklassen.xml
-	perl merge.pl $? > $@
+	perl merge.pl hauptklassen.xml unterklassen.xml > $@
 
 MC2SKOS_OPTIONS=--indexterms --notes
 
