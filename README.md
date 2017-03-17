@@ -26,9 +26,6 @@ Datensätzen nach RDF zu konvertieren besteht folgender Workflow:
 * Die gesamten MARCXML-Datensätze werden anschließend mit [mc2skos] nach RDF
   konvertiert wobei die Formate RDF/Turtle und JSKOS angeboten werden.
 
-  *Es wird eine noch nicht veröffentlichte Version von mc2skos 
-  benötigt, die JSKOS unterstützt!*
-
       $ make rdf
 
 ## Weitere Informationen zur Basisklassifikation
