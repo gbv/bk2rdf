@@ -32,7 +32,7 @@ Datensätzen nach RDF zu konvertieren besteht folgender Workflow:
 
 * [Wikipedia-Artikel zur BK](https://de.wikipedia.org/wiki/Basisklassifikation)
 * [Informationen des GBV zur Erschließung mit der BK](https://www.gbv.de/bibliotheken/verbundbibliotheken/02Verbund/01Erschliessung/05Sacherschliessung/05Sacherschliessung_4289)
-* [BK in BARTOC](http://bartoc.org/en/node/745)
+* [BK in BARTOC](http://bartoc.org/en/node/18785)
 
 
 [Zentralredaktion Sacherschließung]: https://www.sub.uni-goettingen.de/kontakt/abteilungen-a-z/abteilungs-und-gruppendetails/abteilunggruppe/zentralredaktion-sacherschliessung/
