@@ -1,5 +1,9 @@
 # Basisklassikation in RDF
 
+*Dieses Repository ist inzwischen obsolet. Die BK in RDF gibt es unter: https://api.dante.gbv.de/export/download/bk/default/*
+
+----
+
 Die Basisiklassifikation (BK) ist eine monohierarchische Dezimalklassifikation,
 die im Gemeinsamen Bibliotheksverbund (GBV) verwendet wird. Sie basiert auf der
 Nederlandse Basisclassificatie (NBC) und besteht aus 5 Bereichen mit 48
